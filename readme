@@ -1,6 +1,3 @@
-Sure! Below is a colorful version of the README file for the Job Portal web application:
-
-```markdown
 <div align="center">
   <h1>Job Portal</h1>
   <p>
@@ -8,7 +5,7 @@ Sure! Below is a colorful version of the README file for the Job Portal web appl
   </p>
 </div>
 
-![Job Portal Screenshot](https://your-image-url.com)
+![Job Portal ](https://lnkd.in/dz8uw_9N)
 
 ## Table of Contents
 
@@ -47,48 +44,5 @@ Follow these steps to get started with the Job Portal web application:
 ```bash
 git clone https://github.com/your-username/job-portal.git
 cd job-portal
-```
 
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Set up your environment variables:
-
-Create a `.env` file in the root directory and add the following:
-
-```env
-# Your environment variables here
-```
-
-4. Start the development server:
-
-```bash
-npm run dev
-```
-
-5. Open the web application in your browser:
-
-Visit [http://localhost:3000](http://localhost:3000) to access Job Portal.
-
-## Usage
-
-1. Sign up as an applicant or recruiter.
-2. Log in with your credentials to access your dashboard.
-3. Recruiters can create, update, and delete job listings. They can also manage applications and view applicant profiles.
-4. Applicants can perform a powerful fuzzy search with filters to find suitable job opportunities. They can apply for jobs, attach an SOP, and view their application statuses.
-5. Both recruiters and applicants can edit their profiles, upload profile pictures, and resumes.
-
-## Contributing
-
-We welcome contributions to improve Job Portal! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request. Let's make Job Portal even better together!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-You can copy this markdown content and save it in your project's README.md file. Don't forget to replace the placeholders like `<your-image-url>` and customize the installation steps with specific instructions for your project.
 
