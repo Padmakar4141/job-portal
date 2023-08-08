@@ -39,10 +39,4 @@ For added security and privacy, our REST APIs are protected by JWT token verific
 
 Follow these steps to get started with the Job Portal web application:
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/job-portal.git
-cd job-portal
-
 
